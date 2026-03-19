@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "forensic - 2/whitepages.md",
+                "file": "forense 3/Matryoshka doll.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "whitepages"
+              "title": "Matryoshka doll"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "forensic - 2/whitepages.md",
+                "file": "forense 3/Matryoshka doll.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for whitepages"
+              "title": "Backlinks for Matryoshka doll"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "forensic - 2/whitepages.md",
+                "file": "forense 3/Matryoshka doll.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from whitepages"
+              "title": "Outgoing links from Matryoshka doll"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "forensic - 2/whitepages.md",
+                "file": "forense 3/Matryoshka doll.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of whitepages"
+              "title": "Outline of Matryoshka doll"
             }
           }
         ]
@@ -185,6 +185,10 @@
   },
   "active": "d3fe8be3f0b978fd",
   "lastOpenFiles": [
+    "forense 3/MacroHard WeakEdge.md",
+    "forense 3/tunn3l v1s10n.md",
+    "forense 3/Matryoshka doll.md",
+    "forense 3/webnet1.md",
     "forense 3/WebNet0.md",
     "forensic - 2/whitepages.md",
     "forensic - 2/c0rrupt.md",
@@ -213,10 +217,6 @@
     "03- General Skills/10 - PW Crack 3.md",
     "04",
     "03- General Skills/-9 PW Crack2.md",
-    "03- General Skills/- 8 PW Crack1.md",
-    "03- General Skills/-7 FixME2.md",
-    "03- General Skills/-6 FixME.md",
-    "03- General Skills/5 - ConvertMe.md",
     "03- General Skills",
     "02-General Skills"
   ]
