@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CRYPTO/flags.md",
+                "file": "crypto 3/mini RSA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "flags"
+              "title": "mini RSA"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CRYPTO/flags.md",
+                "file": "crypto 3/mini RSA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for flags"
+              "title": "Backlinks for mini RSA"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CRYPTO/flags.md",
+                "file": "crypto 3/mini RSA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from flags"
+              "title": "Outgoing links from mini RSA"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CRYPTO/flags.md",
+                "file": "crypto 3/mini RSA.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of flags"
+              "title": "Outline of mini RSA"
             }
           }
         ]
@@ -185,8 +185,13 @@
   },
   "active": "d3fe8be3f0b978fd",
   "lastOpenFiles": [
-    "CRYPTO/ReadMyCert.md",
+    "crypto 3/Mind your Ps and Qs.md",
+    "crypto 3/mini RSA.md",
+    "crypto 3/b00tl3gRSA3.md",
+    "crypto 3/b00tl3gRSA2.md",
     "CRYPTO/flags.md",
+    "crypto 3",
+    "CRYPTO/ReadMyCert.md",
     "CRYPTO/HideToSee.md",
     "CRYPTO/basic-mod1.md",
     "CRYPTO/Pixelated.md",
@@ -212,14 +217,9 @@
     "06/Trickster.md",
     "07",
     "06/Most Cookies.md",
-    "06/SOAP.md",
-    "06/MatchTheRegex.md",
-    "05/More SQil.md",
     "06",
-    "05/irish-name-repo1.md",
     "05",
     "04",
-    "03- General Skills",
-    "02-General Skills"
+    "03- General Skills"
   ]
 }
