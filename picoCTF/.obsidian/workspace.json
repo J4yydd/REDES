@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "crypto 3/mini RSA.md",
+                "file": "Crypto 2/rsa pop quiz (exp.py).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "mini RSA"
+              "title": "rsa pop quiz (exp.py)"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "crypto 3/mini RSA.md",
+                "file": "Crypto 2/rsa pop quiz (exp.py).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for mini RSA"
+              "title": "Backlinks for rsa pop quiz (exp.py)"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "crypto 3/mini RSA.md",
+                "file": "Crypto 2/rsa pop quiz (exp.py).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from mini RSA"
+              "title": "Outgoing links from rsa pop quiz (exp.py)"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "crypto 3/mini RSA.md",
+                "file": "Crypto 2/rsa pop quiz (exp.py).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of mini RSA"
+              "title": "Outline of rsa pop quiz (exp.py)"
             }
           }
         ]
@@ -185,8 +185,10 @@
   },
   "active": "d3fe8be3f0b978fd",
   "lastOpenFiles": [
-    "crypto 3/Mind your Ps and Qs.md",
     "crypto 3/mini RSA.md",
+    "Crypto 2/rsa pop quiz (exp.py).md",
+    "Crypto 2",
+    "crypto 3/Mind your Ps and Qs.md",
     "crypto 3/b00tl3gRSA3.md",
     "crypto 3/b00tl3gRSA2.md",
     "CRYPTO/flags.md",
@@ -216,10 +218,8 @@
     "07/GLory of garden.md",
     "06/Trickster.md",
     "07",
-    "06/Most Cookies.md",
     "06",
     "05",
-    "04",
-    "03- General Skills"
+    "04"
   ]
 }
