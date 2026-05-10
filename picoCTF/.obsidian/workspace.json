@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 1/piker 4.md",
+                "file": "crypto 1/vinguere.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "piker 4"
+              "title": "vinguere"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 1/piker 4.md",
+                "file": "crypto 1/vinguere.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for piker 4"
+              "title": "Backlinks for vinguere"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 1/piker 4.md",
+                "file": "crypto 1/vinguere.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from piker 4"
+              "title": "Outgoing links from vinguere"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 1/piker 4.md",
+                "file": "crypto 1/vinguere.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of piker 4"
+              "title": "Outline of vinguere"
             }
           }
         ]
@@ -200,8 +200,20 @@
   },
   "active": "2b1bda7f5aade697",
   "lastOpenFiles": [
-    "Untitled 1/piker 3.md",
+    "crypto 1/substitution 2.md",
+    "crypto 1/vinguere.md",
+    "crypto 1/substitution1.md",
+    "crypto 1/substitution0.md",
+    "crypto 1/rail-fence.md",
+    "crypto 1/morse-code.md",
+    "crypto 1/hashcrack.md",
+    "crypto 1/EVEN RSA CAN BE BROKEN???.md",
+    "crypto 1/credstuff.md",
+    "crypto 1/crack the power.md",
     "Untitled 1/piker 4.md",
+    "crypto 1",
+    "Untitled 2",
+    "Untitled 1/piker 3.md",
     "Untitled 1/piker 2.md",
     "Untitled 1/piker 1.md",
     "Untitled 1/timer.md",
@@ -220,21 +232,9 @@
     "crypto 3/Mind your Ps and Qs.md",
     "crypto 3/b00tl3gRSA3.md",
     "crypto 3/b00tl3gRSA2.md",
-    "CRYPTO/flags.md",
     "crypto 3",
-    "CRYPTO/ReadMyCert.md",
-    "CRYPTO/HideToSee.md",
-    "CRYPTO/basic-mod1.md",
-    "CRYPTO/Pixelated.md",
-    "forensic - 2/shark on wire 2.md",
-    "forensic - 2/whitepages.md",
-    "forensic - 2/m00nwalk.md",
-    "forensic - 2/like1000.md",
-    "forense 3/Matryoshka doll.md",
     "CRYPTO",
     "Untitled",
-    "forense 3",
-    "forensic - 2",
-    "07"
+    "forense 3"
   ]
 }

@@ -1,0 +1,25 @@
+## EVEN RSA CAN BE BROKEN???
+
+CryptographyEasy200 pts23,588 solves
+
+by Michael Crotty
+
+This service provides you an encrypted flag. Can you decrypt it with just N & e?
+
+### solucion 
+
+cuando se lanza la instancia te da un valor y solo se faactoriza n 
+```
+N = 23131772553305037012451047518000581220896567750337243268742006605648189578989019476854529049851491476709835754609344256931761244603170511672893963217346562
+e = 65537
+c = 983108787518000006899512500861495463049332482843027358222175648031891458561265446973942457820413977171166664045585448122475541460356579658945283717937651
+
+p = 2
+q = N // 2
+
+phi = (p - 1) * (q - 1)
+d = pow(e, -1, phi)
+
+m = pow(c, d, N)
+print(bytes.fromhex(hex(m)[2:]).decode())
+```
