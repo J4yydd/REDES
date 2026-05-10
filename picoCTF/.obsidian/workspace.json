@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "act cypto1/interencdec.md",
+                "file": "forensic4/Operation Oni.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "interencdec"
+              "title": "Operation Oni"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "act cypto1/interencdec.md",
+                "file": "forensic4/Operation Oni.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for interencdec"
+              "title": "Backlinks for Operation Oni"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "act cypto1/interencdec.md",
+                "file": "forensic4/Operation Oni.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from interencdec"
+              "title": "Outgoing links from Operation Oni"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "act cypto1/interencdec.md",
+                "file": "forensic4/Operation Oni.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of interencdec"
+              "title": "Outline of Operation Oni"
             }
           }
         ]
@@ -200,8 +200,20 @@
   },
   "active": "2b1bda7f5aade697",
   "lastOpenFiles": [
-    "act cypto1/waves over lambda.md",
+    "forensic4/Operation Orchid.md",
+    "forensic4/Operation Oni.md",
+    "forensic4/Sleuthkit Apprentice.md",
+    "forensic4/Sleuthkit Intro.md",
+    "forensic4/Disk, disk, sleuth!.md",
+    "forensic - 2/whitepages.md",
+    "forensic - 2/shark on wire 2.md",
+    "forensic - 2/m00nwalk.md",
+    "forensic - 2/like1000.md",
+    "forensic - 2/c0rrupt.md",
+    "forensic4/Milkslap.md",
     "act cypto1/interencdec.md",
+    "forensic4",
+    "act cypto1/waves over lambda.md",
     "act cypto1/tapping.md",
     "act cypto1/la cifra de.md",
     "act cypto1/easy 1.md",
@@ -216,25 +228,13 @@
     "crypto 1/rail-fence.md",
     "crypto 1/morse-code.md",
     "crypto 1/hashcrack.md",
-    "crypto 1/EVEN RSA CAN BE BROKEN???.md",
-    "crypto 1/credstuff.md",
-    "crypto 1/crack the power.md",
-    "Untitled 1/piker 4.md",
     "crypto 1",
     "Untitled 2",
-    "Untitled 1/piker 3.md",
-    "Untitled 1/piker 2.md",
-    "Untitled 1/piker 1.md",
-    "Untitled 1/timer.md",
-    "Untitled 1/Safe Opener 2 Reverse EngineeringMedium100 pts14,879 solvesby Mubarak MikailWhat can you do with this file?I forgot the key to my safe but this file is supposed to help me with retrieving the lost key. Can you help me unlock my safe?.md",
     "reversing 2",
-    "Reversing/vault-door-5.md",
     "Untitled 1",
-    "Reversing/vault-door-4.md",
     "Reversing",
     "Crypto 2",
     "crypto 3",
-    "CRYPTO",
-    "Untitled"
+    "CRYPTO"
   ]
 }
