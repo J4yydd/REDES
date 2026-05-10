@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "crypto 1/vinguere.md",
+                "file": "act cypto1/interencdec.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "vinguere"
+              "title": "interencdec"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "crypto 1/vinguere.md",
+                "file": "act cypto1/interencdec.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for vinguere"
+              "title": "Backlinks for interencdec"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "crypto 1/vinguere.md",
+                "file": "act cypto1/interencdec.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from vinguere"
+              "title": "Outgoing links from interencdec"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "crypto 1/vinguere.md",
+                "file": "act cypto1/interencdec.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of vinguere"
+              "title": "Outline of interencdec"
             }
           }
         ]
@@ -200,8 +200,17 @@
   },
   "active": "2b1bda7f5aade697",
   "lastOpenFiles": [
-    "crypto 1/substitution 2.md",
+    "act cypto1/waves over lambda.md",
+    "act cypto1/interencdec.md",
+    "act cypto1/tapping.md",
+    "act cypto1/la cifra de.md",
+    "act cypto1/easy 1.md",
+    "act cypto1/Caesar.md",
+    "act cypto1/13.md",
+    "act cypto1/the numbers.md",
     "crypto 1/vinguere.md",
+    "act cypto1",
+    "crypto 1/substitution 2.md",
     "crypto 1/substitution1.md",
     "crypto 1/substitution0.md",
     "crypto 1/rail-fence.md",
@@ -222,19 +231,10 @@
     "Reversing/vault-door-5.md",
     "Untitled 1",
     "Reversing/vault-door-4.md",
-    "Reversing/vault-door-3.md",
-    "vault-door-1.md",
-    "Reversing/vault-door-training.md",
-    "Crypto 2/rsa pop quiz (exp.py).md",
     "Reversing",
-    "crypto 3/mini RSA.md",
     "Crypto 2",
-    "crypto 3/Mind your Ps and Qs.md",
-    "crypto 3/b00tl3gRSA3.md",
-    "crypto 3/b00tl3gRSA2.md",
     "crypto 3",
     "CRYPTO",
-    "Untitled",
-    "forense 3"
+    "Untitled"
   ]
 }
