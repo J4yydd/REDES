@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Task forensic/Ph4nt0m 1ntrud3r.md",
+                "file": "task 2 web/WebDecode.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ph4nt0m 1ntrud3r"
+              "title": "WebDecode"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Task forensic/Ph4nt0m 1ntrud3r.md",
+                "file": "task 2 web/WebDecode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Ph4nt0m 1ntrud3r"
+              "title": "Backlinks for WebDecode"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Task forensic/Ph4nt0m 1ntrud3r.md",
+                "file": "task 2 web/WebDecode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Ph4nt0m 1ntrud3r"
+              "title": "Outgoing links from WebDecode"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Task forensic/Ph4nt0m 1ntrud3r.md",
+                "file": "task 2 web/WebDecode.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Ph4nt0m 1ntrud3r"
+              "title": "Outline of WebDecode"
             }
           }
         ]
@@ -200,8 +200,19 @@
   },
   "active": "2b1bda7f5aade697",
   "lastOpenFiles": [
-    "Task forensic/RED.md",
+    "task 2 web/Unminify.md",
+    "task 2 web/WebDecode.md",
+    "task 2 web/SQLiLite.md",
+    "task 2 web/Secrets.md",
+    "task 2 web/Roboto Sans.md",
+    "task 2 web/Power Cookie.md",
+    "task 2 web/local authoreity.md",
+    "task 2 web/IntroToBurp.md",
+    "task 2 web/Inspect HTML.md",
+    "task 2 web/includes.md",
     "Task forensic/Ph4nt0m 1ntrud3r.md",
+    "task 2 web",
+    "Task forensic/RED.md",
     "Task forensic/secret of the polyglot.md",
     "Task forensic/CanYouSee.md",
     "Task forensic/Scan Surprise.md",
@@ -217,24 +228,13 @@
     "forensic4/Disk, disk, sleuth!.md",
     "forensic - 2/whitepages.md",
     "forensic - 2/shark on wire 2.md",
-    "forensic - 2/m00nwalk.md",
-    "forensic - 2/like1000.md",
-    "forensic - 2/c0rrupt.md",
-    "forensic4/Milkslap.md",
-    "act cypto1/interencdec.md",
     "forensic4",
-    "act cypto1/waves over lambda.md",
-    "act cypto1/tapping.md",
-    "act cypto1/la cifra de.md",
-    "act cypto1/easy 1.md",
-    "act cypto1/Caesar.md",
     "act cypto1",
     "crypto 1",
     "Untitled 2",
     "reversing 2",
     "Untitled 1",
     "Reversing",
-    "Crypto 2",
-    "crypto 3"
+    "Crypto 2"
   ]
 }
