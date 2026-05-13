@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "task 1 general skills/committee issue.md",
+                "file": "examen 1/1-Bookmarklet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "committee issue"
+              "title": "1-Bookmarklet"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "task 1 general skills/committee issue.md",
+                "file": "examen 1/1-Bookmarklet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for committee issue"
+              "title": "Backlinks for 1-Bookmarklet"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "task 1 general skills/committee issue.md",
+                "file": "examen 1/1-Bookmarklet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from committee issue"
+              "title": "Outgoing links from 1-Bookmarklet"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "task 1 general skills/committee issue.md",
+                "file": "examen 1/1-Bookmarklet.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of committee issue"
+              "title": "Outline of 1-Bookmarklet"
             }
           }
         ]
@@ -200,41 +200,41 @@
   },
   "active": "2b1bda7f5aade697",
   "lastOpenFiles": [
+    "task 1 general skills/committee issue.md",
+    "examen 1/1-Bookmarklet.md",
+    "examen 1/3-head-dump.md",
+    "examen 1/2-Cookie Monster Secret Recipe.md",
+    "examen 1/5-findme.md",
+    "examen 1/02 - FANTASY CTF.md",
+    "examen 1/01 - dont-you-love-banners.md",
+    "examen 1/03 - flag_shop.md",
+    "examen 1/10.- specialer.md",
+    "examen 1/9.- SansAlpha.md",
+    "examen 1/8.- Rust Fixme 3.md",
+    "examen 1/07 - Rust fixme 2.md",
+    "examen 1/06 - Rust fixme 1.md",
+    "examen 1/05 - Python Wrangling.md",
+    "examen 1/04- HashingJobApp.md",
+    "examen 1/SSTI2 1.md",
+    "examen 1/SSTI2.md",
+    "examen 1/SSTI1.md",
+    "examen 1/SQLDirect.md",
+    "examen 1/JavaCodeAnalysis.md",
+    "examen 1",
     "task 1 general skills/ASCII Numbers.md",
     "task 1 general skills/binhexa.md",
     "task 1 general skills/binary search.md",
     "task 1 general skills/collaborative development.md",
     "task 1 general skills/blame game.md",
     "task 1 general skills/time machine.md",
-    "task 1 general skills/committee issue.md",
-    "task 1 general skills/special.md",
-    "task 1 general skills/chrono.md",
-    "task 2 web/WebDecode.md",
     "task 1 general skills",
-    "task 2 web/Unminify.md",
-    "task 2 web/SQLiLite.md",
-    "task 2 web/Secrets.md",
-    "task 2 web/Roboto Sans.md",
-    "task 2 web/Power Cookie.md",
-    "task 2 web/local authoreity.md",
-    "task 2 web/IntroToBurp.md",
-    "task 2 web/Inspect HTML.md",
-    "task 2 web/includes.md",
-    "Task forensic/Ph4nt0m 1ntrud3r.md",
     "task 2 web",
-    "Task forensic/RED.md",
-    "Task forensic/secret of the polyglot.md",
-    "Task forensic/CanYouSee.md",
-    "Task forensic/Scan Surprise.md",
-    "Task forensic/hideme.md",
-    "Task forensic/Redaction gone wrong.md",
     "Task forensic",
     "forensic4",
     "act cypto1",
     "crypto 1",
     "Untitled 2",
     "reversing 2",
-    "Untitled 1",
-    "Reversing"
+    "Untitled 1"
   ]
 }
