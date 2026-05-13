@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "task 2 web/WebDecode.md",
+                "file": "task 1 general skills/committee issue.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WebDecode"
+              "title": "committee issue"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "task 2 web/WebDecode.md",
+                "file": "task 1 general skills/committee issue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for WebDecode"
+              "title": "Backlinks for committee issue"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "task 2 web/WebDecode.md",
+                "file": "task 1 general skills/committee issue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from WebDecode"
+              "title": "Outgoing links from committee issue"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "task 2 web/WebDecode.md",
+                "file": "task 1 general skills/committee issue.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of WebDecode"
+              "title": "Outline of committee issue"
             }
           }
         ]
@@ -200,8 +200,18 @@
   },
   "active": "2b1bda7f5aade697",
   "lastOpenFiles": [
-    "task 2 web/Unminify.md",
+    "task 1 general skills/ASCII Numbers.md",
+    "task 1 general skills/binhexa.md",
+    "task 1 general skills/binary search.md",
+    "task 1 general skills/collaborative development.md",
+    "task 1 general skills/blame game.md",
+    "task 1 general skills/time machine.md",
+    "task 1 general skills/committee issue.md",
+    "task 1 general skills/special.md",
+    "task 1 general skills/chrono.md",
     "task 2 web/WebDecode.md",
+    "task 1 general skills",
+    "task 2 web/Unminify.md",
     "task 2 web/SQLiLite.md",
     "task 2 web/Secrets.md",
     "task 2 web/Roboto Sans.md",
@@ -218,23 +228,13 @@
     "Task forensic/Scan Surprise.md",
     "Task forensic/hideme.md",
     "Task forensic/Redaction gone wrong.md",
-    "Task forensic/St3g0.md",
-    "Task forensic/information.md",
-    "forensic4/Operation Oni.md",
     "Task forensic",
-    "forensic4/Operation Orchid.md",
-    "forensic4/Sleuthkit Apprentice.md",
-    "forensic4/Sleuthkit Intro.md",
-    "forensic4/Disk, disk, sleuth!.md",
-    "forensic - 2/whitepages.md",
-    "forensic - 2/shark on wire 2.md",
     "forensic4",
     "act cypto1",
     "crypto 1",
     "Untitled 2",
     "reversing 2",
     "Untitled 1",
-    "Reversing",
-    "Crypto 2"
+    "Reversing"
   ]
 }
